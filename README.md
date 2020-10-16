@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**satyamraj123/satyamraj123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - Im Satyam Raj
 - 🔭 I’m currently student in KIIT,bhubaneshwar 2nd year CSE.
