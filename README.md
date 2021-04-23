@@ -1,4 +1,4 @@
-![Jaagrav Seal's-cover](./cover.png)
+![cover](./cover.png)
 
 ## 👩 About Me
 
@@ -12,7 +12,7 @@
 
 ## ✍ My Work
 
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=kratijain1606&show_icons=true&theme=dark)](https://github.com/satyamraj123)
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamraj123&show_icons=true&theme=dark)](https://github.com/satyamraj123)
 
 Here are some of my projects on Github:
 
