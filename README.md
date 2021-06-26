@@ -15,7 +15,7 @@
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamraj123&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/satyamraj123)
 
 Here are some of my projects on Github:
-
+[![Infabrands](https://github-readme-stats.vercel.app/api/pin/?username=satyamraj123&repo=corona_live&show_icons=true&theme=dark)](https://github.com/kudosware-com/adgram)
 [![corona_live](https://github-readme-stats.vercel.app/api/pin/?username=satyamraj123&repo=corona_live&show_icons=true&theme=dark)](https://github.com/satyamraj123/corona_live)
 [![youtube2.0](https://github-readme-stats.vercel.app/api/pin/?username=satyamraj123&repo=youtube2.0&show_icons=true&theme=dark)](https://github.com/satyamraj123/youtube2.0)
 [![my-pdf-reader-python](https://github-readme-stats.vercel.app/api/pin/?username=satyamraj123&repo=my-pdf-reader-python&show_icons=true&theme=dark)](https://github.com/satyamraj123/my-pdf-reader-python)
