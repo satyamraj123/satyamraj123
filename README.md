@@ -12,8 +12,7 @@
 
 ## ✍ My Work
 
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamraj123&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/satyamraj123)
-
+[![Satyam's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/brunohbrito)](https://git.io/awesome-stats-card)
 Here are some of my projects on Github:
 
 [![corona_live](https://github-readme-stats.vercel.app/api/pin/?username=satyamraj123&repo=corona_live&show_icons=true&theme=dark)](https://github.com/satyamraj123/corona_live)
